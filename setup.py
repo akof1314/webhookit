@@ -53,7 +53,7 @@ setup(name='webhookit',
       license='MIT',
       install_requires=[
         'click',
-        'tornado',
+        'tornado <= 5.1.1',
       ],
       classifiers=[
         'Intended Audience :: Developers',

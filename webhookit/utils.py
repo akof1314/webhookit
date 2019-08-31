@@ -10,7 +10,8 @@ import json
 import click
 import datetime
 import copy
-from webhookit import app
+#from webhookit import app
+import webhookit
 
 
 try:
